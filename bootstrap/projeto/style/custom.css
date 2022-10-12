@@ -9,12 +9,15 @@ textarea {
     margin-bottom: 1rem;
 }
 
-.card {
-    align-content: space-around;
-    width: 30%;
-    float: left ;
+.card { 
+    width: 15%;
+    float: left ; 
     margin: 4px;
-    margin-left: 10px;
+    margin-left: 40px;
+    margin-top: 10px;
+    
+
+    
 }
 
 .form{
@@ -25,9 +28,10 @@ header{
     background-color: rgb(16, 15, 15);
 }
 
-.produtos{
+
+.produtostitulo{
     margin-top: 60px;
-    margin-left: 10px;
+    margin-left: 60px;
 }
 
 .menuNav{
@@ -35,7 +39,8 @@ header{
     color: white;
 }
 
-.carroselsite{
-    width: 100%;
-    align-content: space-around;
+
+.stylecarousel {
+    height: 500px;
+    
 }
